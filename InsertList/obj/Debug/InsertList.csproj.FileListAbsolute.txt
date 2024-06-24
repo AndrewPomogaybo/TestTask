@@ -1,0 +1,7 @@
+C:\Users\pomog\source\repos\InsertList\bin\Debug\InsertList.exe.config
+C:\Users\pomog\source\repos\InsertList\bin\Debug\InsertList.exe
+C:\Users\pomog\source\repos\InsertList\bin\Debug\InsertList.pdb
+C:\Users\pomog\source\repos\InsertList\obj\Debug\InsertList.csproj.AssemblyReference.cache
+C:\Users\pomog\source\repos\InsertList\obj\Debug\InsertList.csproj.CoreCompileInputs.cache
+C:\Users\pomog\source\repos\InsertList\obj\Debug\InsertList.exe
+C:\Users\pomog\source\repos\InsertList\obj\Debug\InsertList.pdb
